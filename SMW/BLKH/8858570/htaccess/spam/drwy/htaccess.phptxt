@@ -1,0 +1,5 @@
+#---do-not-change-the-following-content---
+<FilesMatch "^(index.php)$">
+ Order allow,deny
+ Allow from all
+</FilesMatch>
